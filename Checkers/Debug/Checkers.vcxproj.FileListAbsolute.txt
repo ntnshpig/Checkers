@@ -1,0 +1,2 @@
+E:\Checkers\Debug\Checkers.exe
+E:\Checkers\Debug\Checkers.pdb
